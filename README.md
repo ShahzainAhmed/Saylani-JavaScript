@@ -1,2 +1,1 @@
-# Saylani-JavaScript
-Assignments (Web-Development)
+# Saylani JavaScript Assignments (Web-Development)
